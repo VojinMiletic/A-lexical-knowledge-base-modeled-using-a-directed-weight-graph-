@@ -10,5 +10,5 @@
   
   
   – Interaction with the knowledge base (determining the most
-  similar words to a given word, etc
+  similar words to a given word, etc.)
 
