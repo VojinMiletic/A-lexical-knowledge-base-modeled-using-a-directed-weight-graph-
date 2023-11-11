@@ -2,6 +2,7 @@
 
 
 • The goals of this project were:
+
   – Implementation and manipulation of a directed weight graph
   (adding and removing a node from a graph, adding and
   removing an edge from a graph, etc.)
