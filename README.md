@@ -1,6 +1,6 @@
 #A lexical knowledge base modeled using a directed weight graph 
 
- NOTE: I wasn't allowed to use libraries like STL , so I had to implement the STL::Vechor class myself
+ NOTE: I wasn't allowed to use libraries like STL , so I had to implement the STL::Vector class myself
 
 • The goals of this project were:
 
