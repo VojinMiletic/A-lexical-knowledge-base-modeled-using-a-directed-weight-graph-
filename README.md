@@ -1,5 +1,6 @@
 #A lexical knowledge base modeled using a directed weight graph 
 
+ NOTE: I wasn't allowed to use libraries like STL , so I had to implement the STL::Vechor class myself
 
 • The goals of this project were:
 
@@ -11,4 +12,3 @@
   – Interaction with the knowledge base (determining the most
   similar words to a given word, etc
 
-  NOTE: I wasn't allowed to use libraries like STL , so I had to implement the STL::Vechor class myself
